@@ -1,4 +1,7 @@
-# 《推荐系统实践》(项亮等著) —— 代码实现（code for recommend system practice）
+# 《推荐系统实践》(项亮等著) —— 代码实现（code practice for recommend system）
+
+## Practice
+I did the practice based on correct code and get the outcome.
 
 ## 算法原理纯享(al)
 
@@ -19,5 +22,4 @@
 
 python3 + jupyter notebook
 
-## Practice
-I did the practice based on correct code and get the outcome.
+
