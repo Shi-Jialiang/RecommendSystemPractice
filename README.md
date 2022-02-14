@@ -18,3 +18,6 @@
 ## 环境
 
 python3 + jupyter notebook
+
+## Practice
+I did the practice based on correct code and get the outcome.
