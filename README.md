@@ -1,6 +1,6 @@
-# 《推荐系统实践》(项亮等著) —— 代码实现
+# 《推荐系统实践》(项亮等著) —— 代码实现（code for recommend system practice）
 
-## 算法原理纯享
+## 算法原理纯享(al)
 
 博客地址：https://blog.csdn.net/Magical_Bubble/article/details/88371289
 
