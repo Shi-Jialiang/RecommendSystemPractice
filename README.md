@@ -1,7 +1,7 @@
 # 《推荐系统实践》(项亮等著) —— 代码实现（code practice for recommend system）
 
 ## Practice
-I did the practice based on correct code and get the outcome in every Chapter
+I did the practice based on correct code and saved in every Chapter
 
 ## 算法原理纯享(al)
 
